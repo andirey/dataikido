@@ -1,4 +1,4 @@
-Tips and tricks for data scientists on every day.
+Tips and tricks for data scientists on every day
 
 # Books
 
@@ -6,7 +6,9 @@ Tips and tricks for data scientists on every day.
 
 # Guides
 
-[A Beginner’s Guide to Neural Networks with R](guide/nn_intro//)
+[A Beginner’s Guide to Neural Networks with R](guide/nn_intro/)
+
+[Using kNN Classifier to Predict Whether the Price of Stock Will Increase](guide/knn_stock_prices/)
 
 # Questions
 
